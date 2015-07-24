@@ -28,7 +28,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "karma start >/dev/null & sleep 3 && karma run && ps -ef | grep karma | grep -v grep | awk '{print $2}' | xargs kill -9"
+    "test": "karma start >/dev/null & sleep 5 && karma run && ps -ef | grep karma | grep -v grep | awk '{print $2}' | xargs kill -9"
   },
   "keywords": [
     "jQuery",
