@@ -2,7 +2,7 @@
 #comments .comment {
     margin: 10px;
 }
-#comments .comment .header {
+#comments .comment .comment-header {
     background-color: #e0e0e0;
     padding: 5px;
     border-bottom: 2px solid #cccccc;
@@ -10,7 +10,7 @@
     border-top-right-radius: 4px;
 }
 
-#comments .comment .body{
+#comments .comment .comment-body{
     background-color: #e8e8e8;
     height: 100%;
     padding: 5px 10px;
