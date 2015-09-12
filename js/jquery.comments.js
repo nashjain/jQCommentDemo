@@ -1,5 +1,5 @@
 (function ($) {
-    $.fn.jQComments = function (opts) {
+    $.fn.jQComments = function () {
         return this;
     }
 })(jQuery);
